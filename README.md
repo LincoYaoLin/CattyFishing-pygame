@@ -13,7 +13,9 @@ As a cat, how many fish can you catch and how many levels can you beat? Give it 
 
 **Artist**: Yue Cao
 ## GameVideo
-TIPS:Since github video specifications require less than 10MB, the image quality is a bit low, please don't mind!
+**TIPS:** Since github video specifications require less than 10MB, the image quality is a bit low, please don't mind!
+
+**The game has a sound!**
 
 
 
