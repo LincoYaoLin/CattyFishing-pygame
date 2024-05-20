@@ -3,11 +3,11 @@ As a cat, how many fish can you catch and how many levels can you beat? Give it 
 ![gameshot](https://github.com/LincoYaoLin/CattyFishing-pygame/assets/168736841/383ba8cf-e2f3-4fc4-ba61-a8b791366a33)
 
 ## Gameplay
-**1.**You need to use the mouse to click on the button and press "Space" to go fishing.
+**1.** You need to use the mouse to click on the button and press "Space" to go fishing.
 
-**2.**For a limited time, catch small fish that meet the target score, and there are special fish that will increase your fishing time.
+**2.** For a limited time, catch small fish that meet the target score, and there are special fish that will increase your fishing time.
 
-**3.**The target score will increase in each level, so try your best to reach the higher level!
+**3.** The target score will increase in each level, so try your best to reach the higher level!
 ## DevelopMembers
 **Programmer&Tester**: Jiayi Lin
 
