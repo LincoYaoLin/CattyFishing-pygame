@@ -14,4 +14,9 @@ As a cat, how many fish can you catch and how many levels can you beat? Give it 
 **Artist**: Yue Cao
 ## GameVideo
 TIPS:Since github video specifications require less than 10MB, the image quality is a bit low, please don't mind!
+
+
+
 https://github.com/LincoYaoLin/CattyFishing-pygame/assets/168736841/1fcc05ff-2088-4ad4-907f-91f3e45c49f2
+
+
